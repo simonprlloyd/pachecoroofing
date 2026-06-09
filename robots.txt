@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://pachecoroofingsa.com/sitemap.xml
+Sitemap: https://pachecoroofingrenovations.com/sitemap.xml
